@@ -1,4 +1,5 @@
-//malloc version
+//malloc version and free version
+
 #undef ALLOCSIZE
 #define ALLOCSIZE 10000 //size of available space
 
