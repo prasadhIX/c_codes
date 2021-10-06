@@ -1,4 +1,4 @@
-
+//list using array
 #undef NIL
 #define NIL (-1)
 
